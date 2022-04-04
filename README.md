@@ -37,6 +37,16 @@ Prof. Dr. Marcos A. Pisching, OOP Professor at IFSC
 * [Java](https://docs.oracle.com/javase/8/docs/)
 * [Netbeans](https://netbeans.apache.org/)
 
+---
+
+# Set up 
+
+## How to setup:
+- Instal JDK 11
+- Instal Netbeans
+- Clone project
+- Compile and Run project 
+- Enjoy :)
 
 ---
 ⌨️ com ❤️ por [Raquel Darelli Michelon](https://github.com/RaquelMichelon) 😊
