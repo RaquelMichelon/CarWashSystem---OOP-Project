@@ -28,8 +28,8 @@ Prof. Dr. Marcos A. Pisching, OOP Professor at IFSC
 ## 🚀 Console Output Examples
 
 ![](outputMainAppDemonstration.png)
-![](outputMainAppDemonstration1.png)
 ![](outputMainAppDemonstration2.png)
+![](outputMainAppDemonstration3.png)
 
 
 ## 🛠️ Built with
